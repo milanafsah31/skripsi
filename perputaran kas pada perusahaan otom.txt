@@ -1,0 +1,1 @@
+perputaran kas pada perusahaan otomotif memiliki variasi yang tinggi di antara perusahaan-perusahaan tersebut, dengan PT BOLT mencatatkan nilai perputaran kas tertinggi dan LPIN dengan nilai terendah. Lebih lanjut, hasil regresi menunjukkan bahwa perputaran kas berpengaruh negatif, namun tidak signifikan, terhadap Return On Assets (ROA) perusahaan. 
